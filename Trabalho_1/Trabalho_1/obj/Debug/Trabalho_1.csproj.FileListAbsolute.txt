@@ -1,0 +1,11 @@
+C:\Visual_Studio_22\Trabalho_1\Trabalho_1\bin\Debug\Trabalho_1.exe.config
+C:\Visual_Studio_22\Trabalho_1\Trabalho_1\bin\Debug\Trabalho_1.exe
+C:\Visual_Studio_22\Trabalho_1\Trabalho_1\bin\Debug\Trabalho_1.pdb
+C:\Visual_Studio_22\Trabalho_1\Trabalho_1\obj\Debug\Trabalho_1.csproj.AssemblyReference.cache
+C:\Visual_Studio_22\Trabalho_1\Trabalho_1\obj\Debug\Trabalho_1.csproj.SuggestedBindingRedirects.cache
+C:\Visual_Studio_22\Trabalho_1\Trabalho_1\obj\Debug\Trabalho_1.Principal.resources
+C:\Visual_Studio_22\Trabalho_1\Trabalho_1\obj\Debug\Trabalho_1.Properties.Resources.resources
+C:\Visual_Studio_22\Trabalho_1\Trabalho_1\obj\Debug\Trabalho_1.csproj.GenerateResource.cache
+C:\Visual_Studio_22\Trabalho_1\Trabalho_1\obj\Debug\Trabalho_1.csproj.CoreCompileInputs.cache
+C:\Visual_Studio_22\Trabalho_1\Trabalho_1\obj\Debug\Trabalho_1.exe
+C:\Visual_Studio_22\Trabalho_1\Trabalho_1\obj\Debug\Trabalho_1.pdb
